@@ -1,9 +1,6 @@
 # RNA-PP1
 
 ## Redes Neurais Artificiais – Projeto Prático 1 <br/>Análise Exploratória e Visualização de Dados
-<br/>
-<br/>
-
 ### Profª Elloá B. Guedes
 <br/>
 Amanda Leticia Mineiro Chaves <br/> 
